@@ -1,1 +1,1 @@
-# NEPSE
+# mero lagani live trading table
